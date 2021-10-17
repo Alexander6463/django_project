@@ -1,0 +1,7 @@
+venv
+images
+.env
+jobs/migrations
+static
+.idea
+jobs/__pycache__
